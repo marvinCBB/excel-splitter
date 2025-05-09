@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter and IPython stuff
+.ipynb_checkpoints
+
+# Output folders
+output/
+chunks/
+save/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
